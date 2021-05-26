@@ -244,7 +244,6 @@ dev-mediawiki-sql
 [apache-servers:children]
 dev-mediawiki-web
 
-EOF
 EOD
 }
   provisioner "local-exec" {
