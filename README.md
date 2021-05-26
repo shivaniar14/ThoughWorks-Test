@@ -1,13 +1,20 @@
 # ThoughWorks-Test
 
 Created aws infrastructure using terraform. Resources include -
+
 1 VPC
+
 3 Subnets
+
 Internet Gateway
+
 Route Table
-Key Pair
+
+1 Key Pair
+
 3 Instances
-Load Balancer
+
+1 Load Balancer
 
 I have used null_resource to provision ansible playbook for deploying Mediawiki
 
